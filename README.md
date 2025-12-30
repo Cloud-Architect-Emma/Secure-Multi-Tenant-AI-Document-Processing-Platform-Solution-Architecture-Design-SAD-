@@ -70,9 +70,6 @@ Architecture Diagram
 
 ![Architecture-Flow](architecture/architecture-diagram-(2).gif).
 
-
-![Architecture-Flow](architecture/SAD-Azure-AI-Architecture.png).
-
 The diagram intentionally shows high-level services and trust boundaries only.
 Detailed internals are documented in the SAD.
 
@@ -145,7 +142,7 @@ Design-time governance aligned with enterprise landing zones
 
 ## Well-Architected-Result
 
-![Well-Architected-Result](architecture/Well-Architected-Result.png).
+![Well-Architected-Result](architecture/Well-Architected-Result.PNG).
 
 #### Azure Well-Architected Framework Alignment
 
